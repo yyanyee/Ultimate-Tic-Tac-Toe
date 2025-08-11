@@ -1,4 +1,4 @@
-# Ultimate Tic Tac Toe AI – StudentAgent
+# Ultimate Tic Tac Toe AI
 
 This project implements a competitive AI agent for **Ultimate Tic Tac Toe**, designed to play strategically and efficiently against strong opponents.  
 It uses a combination of **search algorithms**, **heuristics**, and **machine learning** to make optimal moves within strict time limits.
